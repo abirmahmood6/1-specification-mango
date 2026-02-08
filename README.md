@@ -8,8 +8,6 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 Name: Edwin Chao (college senior, majors in CS)
 
 Goals/Needs:
