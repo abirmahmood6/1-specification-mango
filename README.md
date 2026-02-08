@@ -4,7 +4,16 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- **Abir Mahmood**  
+  GitHub: https://github.com/abirmahmood6
+- **Harrison Wong**  
+  GitHub: https://github.com/harrisonmangitwong
+- **Robin C.**  
+  GitHub: https://github.com/localhost433
+- **Ami**  
+  GitHub: _TBD_
+- **Owenz**  
+  GitHub: _TBD_
 
 ## Stakeholders
 
