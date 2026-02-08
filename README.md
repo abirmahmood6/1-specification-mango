@@ -10,6 +10,20 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+Name: Edwin Chao (college senior, majors in CS)
+
+Goals/Needs:
+- Reliably keep track of all tasks / to-do items
+- Stay organized by class / category, without getting mixed up
+- Take notes quickly and conveniently
+- Have robust formatting functions notes are neat and easy to comprehend
+
+Problem/Frustrations:
+- Current notetaking apps like Notion can feel too overwhelming
+- Apps with more robust functionality take too long to load sometimes
+- Difficulty sifting through old notes retrospectively
+- Difficulty comprehending notes that were taken quickly retrospectively
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
