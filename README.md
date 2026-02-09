@@ -24,6 +24,11 @@ A little exercise to get started with the specification phase of the software de
   GitHub: https://github.com/owenzhang2004  
   Contribution: _TBD_
 
+## Brief App Overview
+ClearNote is an app designed for college students to have quick, convenient, yet robust notetaking
+capabilities. Our goal is to prioritize loading times and performance so students can quickly
+jot down quick notes and ideas to reference later, while also implementing formatting and categorization
+functionality so they can stay organized.
 
 ## Stakeholders
 
