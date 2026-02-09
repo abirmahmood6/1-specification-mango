@@ -24,8 +24,7 @@ Problem/Frustrations:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
-
+To enable productivity through simplicity and convenience.
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
