@@ -44,6 +44,7 @@ Problem/Frustrations:
 ## Product Vision Statement
 
 To enable productivity through simplicity and convenience.
+
 ## User Requirements
 
 1. **As a college student, I want to quickly create a note so that I can capture information during lectures without slowing down.**
