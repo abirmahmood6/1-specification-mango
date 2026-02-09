@@ -6,11 +6,11 @@ A little exercise to get started with the specification phase of the software de
 
 - **Abir Mahmood**  
   GitHub: https://github.com/abirmahmood6  
-  Contribution: User Stories, UML Activity Diagrams  
+  Contribution: User Requirements, UML Activity Diagrams  
 
 - **Harrison Wong**  
   GitHub: https://github.com/harrisonmangitwong  
-  Contribution: Stakeholder Interviews  
+  Contribution: Stakeholder Interviews, Product Vision Statement 
 
 - **Robin C.**  
   GitHub: https://github.com/localhost433  
@@ -44,6 +44,7 @@ Problem/Frustrations:
 ## Product Vision Statement
 
 To enable productivity through simplicity and convenience.
+
 ## User Requirements
 
 1. **As a college student, I want to quickly create a note so that I can capture information during lectures without slowing down.**
@@ -69,7 +70,22 @@ To enable productivity through simplicity and convenience.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### UML Diagram 1 – Create a Note
+
+**User Story:**  
+As a college student, I want to quickly create a note so that I can capture information during lectures without slowing down.
+
+![UML Diagram 1 – Create a Note](./images/UML_Activity_Diagram_1.png)
+
+---
+
+### UML Diagram 2 – Organize Tasks by Class
+
+**User Story:**  
+As a college student, I want to organize tasks by class so that I don’t miss deadlines or mix up assignments.
+
+![UML Diagram 2 – Organize Tasks](./images/UML_Activity_Diagram_2.png)
+
 
 ## Clickable Prototype
 
