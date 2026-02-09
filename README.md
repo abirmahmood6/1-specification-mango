@@ -12,8 +12,8 @@ A little exercise to get started with the specification phase of the software de
   GitHub: https://github.com/localhost433
 - **Ami**  
   GitHub: _TBD_
-- **Owen Zhang**  
-  GitHub: https://github.com/owenzhang2004
+- **Owenz**  
+  GitHub: _TBD_
 
 ## Stakeholders
 
