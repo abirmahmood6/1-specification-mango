@@ -2,23 +2,28 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team members
+## Team Members
 
 - **Abir Mahmood**  
-  GitHub: https://github.com/abirmahmood6
-  Contribution: User Stories
+  GitHub: https://github.com/abirmahmood6  
+  Contribution: User Stories, UML Activity Diagrams  
+
 - **Harrison Wong**  
-  GitHub: https://github.com/harrisonmangitwong
-  Contributions: Stakeholders
+  GitHub: https://github.com/harrisonmangitwong  
+  Contribution: Stakeholder Interviews  
+
 - **Robin C.**  
-  GitHub: https://github.com/localhost433
-  Contributions:
+  GitHub: https://github.com/localhost433  
+  Contribution: _TBD_  
+
 - **Ami**  
-  GitHub: _TBD_
-  Contributions:
+  GitHub: _TBD_  
+  Contribution: _TBD_  
+
 - **Owen Zhang**  
-  GitHub: https://github.com/owenzhang2004
-  Contributions:
+  GitHub: https://github.com/owenzhang2004  
+  Contribution: _TBD_
+
 
 ## Stakeholders
 
