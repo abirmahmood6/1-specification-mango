@@ -94,4 +94,4 @@ As a college student, I want to organize tasks by class so that I don’t miss d
 
 ## Clickable Prototype
 
-https://www.figma.com/design/eXSlK0Wa3E6D87HQxDhgb0/mango-wireframes---Prototype?node-id=0-1&t=mUPC6HOOesScvZAB-1
+https://www.figma.com/proto/eXSlK0Wa3E6D87HQxDhgb0/mango-wireframes---Prototype?page-id=0%3A1&node-id=65-76&viewport=261%2C529%2C0.24&t=uWXRxeXcwVAgHwc5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=32%3A5
