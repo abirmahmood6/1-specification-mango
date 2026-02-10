@@ -95,4 +95,3 @@ As a college student, I want to organize tasks by class so that I don’t miss d
 ## Clickable Prototype
 
 https://www.figma.com/design/eXSlK0Wa3E6D87HQxDhgb0/mango-wireframes---Prototype?node-id=0-1&t=mUPC6HOOesScvZAB-1
-
