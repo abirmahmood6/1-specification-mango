@@ -6,23 +6,18 @@ A little exercise to get started with the specification phase of the software de
 
 - **Abir Mahmood**  
   GitHub: https://github.com/abirmahmood6  
-  Contribution: User Requirements, UML Activity Diagrams  
 
 - **Harrison Wong**  
   GitHub: https://github.com/harrisonmangitwong  
-  Contribution: Stakeholder Interviews, Product Vision Statement 
 
 - **Robin C.**  
   GitHub: https://github.com/localhost433  
-  Contribution: Wireframe / Prototype
 
 - **Ami**  
-  GitHub: _TBD_  
-  Contribution: _TBD_  
+  GitHub: https://github.com/asb9823
 
 - **Owen Zhang**  
   GitHub: https://github.com/owenzhang2004  
-  Contribution: _TBD_
 
 ## Brief App Overview
 
@@ -55,29 +50,29 @@ To enable productivity through simplicity and convenience.
 
 ## User Requirements
 
-1. **As a college student, I want to quickly create a note so that I can capture information during lectures without slowing down.**
+1. As a college student, I want to quickly create a note so that I can capture information during lectures without slowing down.
 
-2. **As a college student, I want to organize tasks by class so that I don’t miss deadlines or mix up assignments.**
+2. As a college student, I want to organize tasks by class so that I don’t miss deadlines or mix up assignments.
 
-3. **As a student, I want to apply formatting like headings and bullet points so that my notes are easy to read and understand later.**
+3. As a student, I want to apply formatting like headings and bullet points so that my notes are easy to read and understand later.
 
-4. **As a student, I want to see all my notes grouped by class so that I can find information quickly when studying.**
+4. As a student, I want to see all my notes grouped by class so that I can find information quickly when studying.
 
-5. **As a student, I want to add a task with a due date so that I can keep track of upcoming assignments.**
+5. As a student, I want to add a task with a due date so that I can keep track of upcoming assignments.
 
-6. **As a student, I want to edit my notes after creating them so that I can fix mistakes or add additional information.**
+6. As a student, I want to edit my notes after creating them so that I can fix mistakes or add additional information.
 
-7. **As a student, I want to search through my notes so that I can quickly find older information when reviewing.**
+7. As a student, I want to search through my notes so that I can quickly find older information when reviewing.
 
-8. **As a student, I want to view only the tasks for a specific class so that I can focus on one course at a time.**
+8. As a student, I want to view only the tasks for a specific class so that I can focus on one course at a time.
 
-9. **As a student, I want the app to load quickly so that I can take notes and check tasks without delays.**
+9. As a student, I want the app to load quickly so that I can take notes and check tasks without delays.
 
-10. **As a student, I want a simple and uncluttered interface so that I don’t feel overwhelmed while managing my notes and tasks.**
+10. As a student, I want a simple and uncluttered interface so that I don’t feel overwhelmed while managing my notes and tasks.
 
-11. **As a student, I want to be able to access my notes and tasks across multiple devices so that I can study and stay organized on the go.**
+11. As a student, I want to be able to access my notes and tasks across multiple devices so that I can study and stay organized on the go.
 
-12. **As a student, I want to view my tasks organized by group so that I can easily see what I have to do for each category.**
+12. As a student, I want to view my tasks organized by group so that I can easily see what I have to do for each category.
 
 ## Activity Diagrams
 
@@ -99,4 +94,4 @@ As a college student, I want to organize tasks by class so that I don’t miss d
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/eXSlK0Wa3E6D87HQxDhgb0/mango-wireframes---Prototype?page-id=0%3A1&node-id=65-76&viewport=261%2C529%2C0.24&t=uWXRxeXcwVAgHwc5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=32%3A5
+[ClearNote – Figma Prototype](https://www.figma.com/proto/eXSlK0Wa3E6D87HQxDhgb0/mango-wireframes---Prototype?page-id=0%3A1&node-id=65-76&viewport=261%2C529%2C0.24&t=uWXRxeXcwVAgHwc5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=32%3A5)
