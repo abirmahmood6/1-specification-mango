@@ -14,7 +14,7 @@ A little exercise to get started with the specification phase of the software de
 
 - **Robin C.**  
   GitHub: https://github.com/localhost433  
-  Contribution: _TBD_  
+  Contribution: Wireframe / Prototype
 
 - **Ami**  
   GitHub: _TBD_  
@@ -25,6 +25,7 @@ A little exercise to get started with the specification phase of the software de
   Contribution: _TBD_
 
 ## Brief App Overview
+
 ClearNote is an app designed for college students to have quick, convenient, yet robust notetaking
 capabilities. Our goal is to prioritize loading times and performance so students can quickly
 jot down quick notes and ideas to reference later, while also implementing formatting and categorization
@@ -35,12 +36,14 @@ functionality so they can stay organized.
 Name: Edwin Chao (college senior, majors in CS)
 
 Goals/Needs:
+
 - Reliably keep track of all tasks / to-do items
 - Stay organized by class / category, without getting mixed up
 - Take notes quickly and conveniently
 - Have robust formatting functions notes are neat and easy to comprehend
 
 Problem/Frustrations:
+
 - Current notetaking apps like Notion can feel too overwhelming
 - Apps with more robust functionality take too long to load sometimes
 - Difficulty sifting through old notes retrospectively
@@ -72,6 +75,9 @@ To enable productivity through simplicity and convenience.
 
 10. **As a student, I want a simple and uncluttered interface so that I don’t feel overwhelmed while managing my notes and tasks.**
 
+11. **As a student, I want to be able to access my notes and tasks across multiple devices so that I can study and stay organized on the go.**
+
+12. **As a student, I want to view my tasks organized by group so that I can easily see what I have to do for each category.**
 
 ## Activity Diagrams
 
@@ -90,7 +96,6 @@ As a college student, I want to quickly create a note so that I can capture info
 As a college student, I want to organize tasks by class so that I don’t miss deadlines or mix up assignments.
 
 ![UML Diagram 2 – Organize Tasks](./images/UML_Activity_Diagram_2.png)
-
 
 ## Clickable Prototype
 
